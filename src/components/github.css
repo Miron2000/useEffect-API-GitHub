@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    margin: 2rem;
+}
+.container div {
+    padding: 10px;
+}
+
+.selected {
+    background-color: gray;
+}
